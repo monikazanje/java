@@ -1,0 +1,10 @@
+import java.io.*;
+class abc{
+    static String s="i am a girl";
+}
+public class staticForVariable {
+    public static void main(String[] args){
+        System.out.println(abc.s);
+    }
+    
+}
